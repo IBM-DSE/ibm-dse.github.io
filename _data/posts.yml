@@ -107,7 +107,7 @@
   link: https://venturebeat.com/2017/12/22/how-ibm-builds-an-effective-data-science-team/
   excerpt: "Data Science is a team sport. While I’m not sure where this phrase was coined, it is an accurate phrase. This must be ringing true with enterprises as well since we often get the question: “What should the structure of a data science team be?” and “Where should a data science team report into?” The first question is probably a little more straight forward and that is what we will address here. The answer to the second question really is it depends on your organizations maturity in this space, but is should be some sort of federated or hub and spoke model eventually. Breaking down what is required to successfully execute a data science project and acknowledging that very few individuals possess all these skills helps to define what a team should look like. "
   shortlink: http://ibm.biz/HowIBMBuldsDSTeams
-
+  
 - title: "Hybrid Use Cases Dominate Machine Learning - Part 1"
   date: 2018-01-16
   author: John Thomas
