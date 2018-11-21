@@ -227,4 +227,11 @@
   link: https://medium.com/inside-machine-learning/leveraging-watsons-machine-learning-gpus-to-accelerate-your-deep-learning-project-in-python-e4ccf497a5f3
   excerpt: "Use GPUs from the Watson Machine Learning Service for any deep learning project in Python"
   shortlink: https://ibm.co/IML_GPUs-and-DL-in-Python
-
+  
+- title: "Unfriendly Skies: Predicting Flight Cancellations Using Weather Data, Part 4"
+  date: 2018-11-08
+  author: Tim Bohn and Ricardo Balduino
+  publication: Medium
+  link: https://medium.com/inside-machine-learning/unfriendly-skies-predicting-flight-cancellations-using-weather-data-part-4-7af407b58804
+  shortlink: https://ibm.co/IML_Flights4
+  excerpt: "In Part 1 of this series, we wrote about our goal to explore a use case and use various machine learning platforms to see how we might build classification models with those platforms to predict flight cancellations. In Part 2, we started our exploration with IBM SPSS Modeler and APIs from The Weather Company. Part 3 looked at doing this with Watson Studio in a python Jupyter notebook. In Part 4 we look at using the new SPSS Modeler flows in Watson Studio."
