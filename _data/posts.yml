@@ -235,3 +235,10 @@
   link: https://medium.com/inside-machine-learning/unfriendly-skies-predicting-flight-cancellations-using-weather-data-part-4-7af407b58804
   shortlink: https://ibm.co/IML_Flights4
   excerpt: "In Part 1 of this series, we wrote about our goal to explore a use case and use various machine learning platforms to see how we might build classification models with those platforms to predict flight cancellations. In Part 2, we started our exploration with IBM SPSS Modeler and APIs from The Weather Company. Part 3 looked at doing this with Watson Studio in a python Jupyter notebook. In Part 4 we look at using the new SPSS Modeler flows in Watson Studio."
+  
+- title: "Football Fan Sentiment"
+  date: 2018-10-22
+  author: Ricardo Balduino
+  publication: IBM Data Science Community
+  link: https://community.ibm.com/community/user/datascience/blogs/ricardo-balduino/2018/10/22/football-fan-sentiment?CommunityKey=f1c2cf2b-28bf-4b68-8570-b239473dcbbc&tab=recentcommunityblogsdashboard
+  excerpt: "In August, students from Yale's Center for Customer Insights presented their findings from a study that used various IBM Analytics tools to analyze social media data from NFL fans. This data was used to gauge fans’ perceptions of the league and popular topics surrounding it and to then use these insights to drive effective social media interactions."  
