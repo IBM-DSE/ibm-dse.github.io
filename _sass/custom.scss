@@ -2,12 +2,20 @@ $demo-img-height: 200px;
 $dsx-green: #6DEDD8;
 
 body, h1, h2, h3, h4, h5, h6 {
-  font-family: Helvetica;
+  font-family: Helvetica, Arial, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
 }
 
 .flex {
   display: flex;
   flex-wrap: wrap;
+}
+
+.space-below {
+  margin-bottom: 60px;
 }
 
 #header-menu {
@@ -21,10 +29,12 @@ body, h1, h2, h3, h4, h5, h6 {
     color: $dsx-green;
     font-weight: 300;
   }
+  @extend .space-below;
 }
 
 .home {
   @extend .container;
+  @extend .space-below;
 }
 
 .post {
