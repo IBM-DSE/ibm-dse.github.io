@@ -3,6 +3,7 @@ layout: demo
 title: Financial Advisor
 description: "Intelligent Advice with Integrated Analytics"
 thumb_image: /images/FinDash-thumb.png
+app_link: https://findash.mybluemix.net/
 repo: FinDash
 ---
 
